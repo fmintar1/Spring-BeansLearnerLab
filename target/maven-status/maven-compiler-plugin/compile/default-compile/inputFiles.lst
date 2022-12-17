@@ -1,1 +1,13 @@
 /Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/BeanLabApplication.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Models/Students.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Models/Student.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Models/Person.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Repositories/Learner.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Models/Classroom.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Config/StudentConfig.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Config/InstructorsConfig.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Models/Instructor.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Config/ClassroomConfig.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Repositories/People.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Repositories/Teacher.java
+/Users/freddy/Desktop/Projects/Spring-BeansLearnerLab/src/main/java/zipcode/rocks/BeanLab/Models/Instructors.java
