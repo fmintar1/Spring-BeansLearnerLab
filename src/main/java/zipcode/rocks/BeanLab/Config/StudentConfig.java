@@ -40,8 +40,12 @@ public class StudentConfig {
         return new Students(aList);
     }
 
-    @Bean
-    public Students previousStudents(List<Student> currentCohort) {
-        return new Students(currentCohort);
+    @Bean //<-- Empty bean will take the same name as method
+    public Students previousStudents() {
+        List<Student> bList = new ArrayList<>();
+        bList.add(new Student(1L, "Troy Le"));
+        bList.add(new Student(2L, "Fitru Fitru"));
+        bList.add(new Student(3L, "Kristina Chiev"));
+        return new Students(bList);
     }
 }
