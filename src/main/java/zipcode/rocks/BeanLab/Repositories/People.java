@@ -1,5 +1,6 @@
 package zipcode.rocks.BeanLab.Repositories;
 
+import java.util.Iterator;
 import java.util.List;
 
 import zipcode.rocks.BeanLab.Models.Person;
@@ -43,5 +44,10 @@ public abstract class People <T extends Person> implements Iterable<T>{
 
     public List<T> findAll() {
         return personList;
+    }
+
+    @Override
+    public Iterator<T> iterator() {
+        return personList.stream().iterator();
     }
 }

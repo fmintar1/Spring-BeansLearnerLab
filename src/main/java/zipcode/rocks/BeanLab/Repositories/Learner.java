@@ -1,6 +1,8 @@
 package zipcode.rocks.BeanLab.Repositories;
 
-public interface Learner {
+import java.util.Collection;
+
+public interface Learner extends Collection<Learner>{
 
     public void learn(double numberOfHours);
     

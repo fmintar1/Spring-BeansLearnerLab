@@ -24,6 +24,13 @@ public class Instructor extends Person implements Teacher {
         for(Learner l : learners) {
             l.learn(numberOfHoursPerLearner);
         }
+        // int count = 0;
+        // for(Learner l : learners) {
+        //     count++;
+        // }
+        // for(Learner l : learners) {
+        //     l.learn(numberOfHours/count);
+        // }
         // TODO Auto-generated method stub
     }
 }
